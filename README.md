@@ -10,7 +10,7 @@ pip install -r requirements.txt
 
 ### 1. Prepare training data 
 
-- 1.1 In order to realize the SR assisted branch, the input images of the network are downsampled from $1024 \times 1024$ size to $512 \times 512$ during the training process. Whereas in the test process, the size of the image is $512 \times 512$ direct, which is consistent with the input of other algorithms compared.
+- 1.1 In order to realize the SR assisted branch, the input images of the network are downsampled from 1024 \times 1024 size to 512 \times 512 during the training process. In the test process, the image size is 512 \times 512, which is consistent with the input of other algorithms compared.
 
 - 1.2 Download VEDAI data for our experiment from [baiduyun](https://pan.baidu.com/s/1C9yfcYfCaBb6vNtGSkjHFA), code: rqfx
 
