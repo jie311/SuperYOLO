@@ -1,5 +1,4 @@
-## Pretrained Checkpoints
-Download pre-trained deraining model [here](https://pan.baidu.com/s/1SWoGanlLK6cF9SQ7kWDPHQ) (code：lldz) and put it in [here](https://github.com/icey-zhang/SuperYOLO/tree/main/weights).
+
 ## Requirements
 
 ```python
@@ -23,6 +22,10 @@ python train_up.py --cfg models/SRyolo_noFocus.yaml --super --train_img_size 102
 ```
 
 ## Test
+
+### Pretrained Checkpoints
+You can use our pretrained checkpoints for test process.
+Download pre-trained model [here](https://pan.baidu.com/s/1SWoGanlLK6cF9SQ7kWDPHQ) (code：lldz) and put it in [here](https://github.com/icey-zhang/SuperYOLO/tree/main/weights).
 
 ```python
 python test.py --weights runs/train/exp/best.pt --input_mode RGB+IR 
