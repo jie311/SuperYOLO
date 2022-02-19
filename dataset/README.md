@@ -4,6 +4,6 @@ Download datasets from the [baiduyun](https://pan.baidu.com/s/1L0SWi5AQA6ZK9jDIW
   `├──`VEDAI  <br/>
       `├──images`   <br/>
       `├──labels`  <br/>
-  `└──`VEDAI_1024 <br/>
+  `├──`VEDAI_1024 <br/>
       `├──images`   <br/>
       `├──labels`  <br/>
