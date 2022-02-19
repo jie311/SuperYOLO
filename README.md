@@ -1,5 +1,5 @@
 ## Pretrained Checkpoints
-
+Download pre-trained deraining model [here](https://pan.baidu.com/s/1SWoGanlLK6cF9SQ7kWDPHQ), code：lldz and put it in [here](https://github.com/icey-zhang/SuperYOLO/tree/main/weights)
 ## Requirements
 
 ```python
