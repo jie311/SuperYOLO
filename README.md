@@ -13,7 +13,7 @@ pip install -r requirements.txt
 
 - 1.2 Download VEDAI data for our experiment from [baiduyun](https://pan.baidu.com/s/1L0SWi5AQA6ZK9jDIWRY7Fg) (code: hvi4).
 
-- 1.3 Note that we transform the labels of the dataset to be horizontal boxes by [transform code](data/transform.py).You shoud run transform.py before training the model.
+- 1.3 Note that we transform the labels of the dataset to be horizontal boxes by [transform code](data/transform.py). You shoud run transform.py before training the model.
 
 ### 2. Begin to train
 
